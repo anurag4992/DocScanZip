@@ -1,0 +1,2 @@
+rootProject.name='DocsScan'
+include ':app'
